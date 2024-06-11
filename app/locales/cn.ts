@@ -377,7 +377,7 @@ const cn = {
   },
   Store: {
     DefaultTopic: "新的聊天",
-    BotHello: "你好，我是OnDream AI，如果出现任何错误，请联系[邮件](mailto:master@ondream.xyz)，为了保证您的服务的稳定性，我们的使用的API都是纯源付费的并且公益免费试用，如果您喜欢我们的项目，请访问[这里](https://baidu.com/)对我们进行捐助。",
+    BotHello: "你好，我是DreamOr AI，如果出现任何错误，请联系[邮件](mailto:master@ondream.xyz)，为了保证您的服务的稳定性，我们的使用的API都是纯源付费的并且公益免费试用，如果您喜欢我们的项目，请访问[这里](https://baidu.com/)对我们进行捐助。",
     Error: "出错了，稍后重试吧",
     Prompt: {
       History: (content: string) => "这是历史聊天总结作为前情提要：" + content,
