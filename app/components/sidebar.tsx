@@ -155,7 +155,7 @@ export function SideBar(props: { className?: string }) {
     >
       <div className={styles["sidebar-header"]} data-tauri-drag-region>
         <div className={styles["sidebar-title"]} data-tauri-drag-region>
-          OnDream AI
+          DreamOr AI
         </div>
         <div className={styles["sidebar-sub-title"]}>
           快速，安全且聪明的人工智能.
