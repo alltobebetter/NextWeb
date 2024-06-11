@@ -547,7 +547,7 @@ export function ImagePreviewer(props: {
           </div>
 
           <div>
-            <div className={styles["main-title"]}>OnDream AI</div>
+            <div className={styles["main-title"]}>DreamOr AI</div>
             <div className={styles["sub-title"]}>
               github.com
             </div>
